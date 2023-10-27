@@ -1,6 +1,6 @@
 ## Punky's New Brew - Eurorack Drum Module
 
-![Module Image](PunkyBrew.jpg){width=25% height=25%}
+![Module Image](PunkyBrew.jpg)
 
 **Description:**
 Punky's New Brew is an exciting Eurorack drum module created by Juan Segovia. This DIY module produces percussive arcade-style sounds and is perfect for electronic music enthusiasts and synthesizer aficionados. This repository contains the KiCad project files, Gerber files, and other resources related to the construction of the module.
