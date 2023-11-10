@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.1-0"
     },
-    "CreationDate": "2023-10-20T13:44:43+13:00"
+    "CreationDate": "2023-11-10T19:27:26+13:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Punkys-new-brew_panel",
       "GUID": "50756e6b-7973-42d6-9e65-772d62726577",
-      "Revision": "001"
+      "Revision": "003"
     },
     "Size": {
       "X": 40.5,
